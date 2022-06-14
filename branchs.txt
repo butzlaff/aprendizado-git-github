@@ -1,1 +1,1 @@
-
+Branch's são usadas para criar novas ramificações do Git, para não precisarmos alterar o código principal.

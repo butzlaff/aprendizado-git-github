@@ -1,1 +1,2 @@
-
+Git:
+Git é um "sistema" muito usado para controle de versão, compartilhar arquivos de forma mais fácil, ou seja, gerenciar o código fonte de uma aplicação de forma mais efetiva.
